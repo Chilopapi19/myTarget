@@ -1,6 +1,6 @@
 Target saya belajar dan mengasah skill coding selama 3 tahun+
 
-  1. Menguasai dasar bahasa pemrograman C/C++
+  1. Menguasai dasar bahasa pemrograman C/C++ ✅
   2. Menguasai Java OOP (java object oriented programming)
   3. Dapat menggunakan bahasa pemrograman Java secara next level
   4. Dapat membuat sebuah website yang sangat kompleks dengan menggunakan (HTML,CSS,JS) 
