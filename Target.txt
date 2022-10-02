@@ -5,3 +5,4 @@ Target saya belajar dan mengasah skill coding selama 3 tahun+
   3. Dapat menggunakan bahasa pemrograman Java secara next level
   4. Dapat membuat sebuah website yang sangat kompleks dengan menggunakan (HTML,CSS,JS) 
      ataupun menggunakan Framework (Tailwind dan Bootstrap)
+  5. Dapat melakukan problem solving dengan cepat
