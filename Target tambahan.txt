@@ -5,4 +5,3 @@ Beberapa target tambahan
      ^ mySQL
   2. Mempelajari bahasa pemrograman Phyton
   3. Dapat menemukan inspirasi design untuk web
-  4. Mempelajari tentang SO lebih lanjut
