@@ -1,0 +1,4 @@
+Beberapa target tambahan
+
+  1. Mempelajari database
+  2. Mempelajari bahasa pemrograman Phyton
