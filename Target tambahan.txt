@@ -1,6 +1,8 @@
 Beberapa target tambahan
 
   1. Mempelajari database
+     ^ PHP
+     ^ mySQL
   2. Mempelajari bahasa pemrograman Phyton
   3. Dapat menemukan inspirasi design untuk web
   4. Mempelajari tentang SO lebih lanjut
