@@ -6,3 +6,4 @@ Target saya belajar dan mengasah skill coding selama 3 tahun+
   4. Dapat membuat sebuah website yang sangat kompleks dengan menggunakan (HTML,CSS,JS) 
      ataupun menggunakan Framework (Tailwind dan Bootstrap)
   5. Dapat melakukan problem solving dengan cepat
+  6. Mempelajari Git dan Github
